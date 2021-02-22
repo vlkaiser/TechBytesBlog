@@ -1,0 +1,16 @@
+### 5. Bonus
+This is just a few tips to give yourself an edge.  (Ok, these are mostly for EEMECE)
+1. Learn to Solder.  
+It's a valuable skill with a low cost to get started.  
+An entry level soldering iron kit is $10.  A soldering project kit is also $10 or less.   
+
+2. Arduino or similar.  
+There are lots of flavors.  I reccommend getting started with an UNO variant.  If you don't have any hardware, the starter kits are under $40 and come with the board.  The IDE is free.  Run through a few tutorials.  
+
+3. 3D Design  
+Again, many flavors.  Fusion360, Tinkercad, Sketchup, Solidworks - it's great to be able to design enclosures.  Bonus points if you print or send out to have it printed.
+
+4. PCB Layout  
+Mostly for the EECEs.  It's daunting, but YouTube has a lot of tutorials.  Pick a schematicPCB program like KiCad, Eagle, or other.  You can (and should) have have them fabricated for not too much if you're willing to wait.
+
+Now put these on your resume for a definite edge.
