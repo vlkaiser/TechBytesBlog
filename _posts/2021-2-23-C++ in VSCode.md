@@ -6,7 +6,8 @@ title: C++ in VSCode on Windows
 Very comprehensive and easy to follow instructions at this link:  
 [Visual Studio - Using GCC with MinGW](https://code.visualstudio.com/docs/cpp/config-mingw)
 
-## Setup:
+## Setup
+
 Compiling C++ programs in VSCode requires
 1. VS Code
 2. Installing the C/C++ Extension in VSCode (Microsoft)
@@ -20,6 +21,37 @@ Necessary to add the GCC path to the Windows Environment Variables [See instruct
 > gdc --version
 ~~~
 
+## Workspace
+VSCode supports command prompt instructions.  Open the Cmd Prompt:
+~~~
+> mkdir projects        // Make a projects folder
+> cd projects           // Navigate to that folder
+> mkdir helloworld      // Make a helloworld folder
+> cd helloworld         // Navigate to the helloworld folder
+> code .                // Create a VSCode workspace in the current working folder
+~~~
+In the project in VSCode, right click -> add a *.cpp file.
+<br />
+<br />
+
+## Building
+The link above explains how to create a [tasks.json](tasks.json) file to tell VS Code how to build (compile) the program.
+
+Alternatively, use the command line (where 'helloworld' is the user-defined output file):
+~~~
+> g++ helloworld.cpp -o helloworld
+~~~
+
+## Running
+Use the command line:
+~~~
+> helloworld
+~~~
+This will run the program, and you will see the output in the command prompt.
+
+<br />
+<br />
+<br />
 
 -----
 
