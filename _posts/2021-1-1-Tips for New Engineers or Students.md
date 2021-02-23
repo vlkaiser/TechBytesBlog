@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for New Engineers or Students
+title: Job Application Tips for New Engineers or Students
 ---
 
 Welcome you talented, passionate, creative individuals!
