@@ -1,0 +1,19 @@
+These smart mirrors are crazy cool, but I'm not really sure about putting the effort in.
+I'm not shelling out $40-60 for the mirror, plus $100 for the display,
+plus... everything else!
+There's got to be a way to have some fun with this, without investing a ton of cash.
+
+1. I located some one-way mirror film on Amazon.
+18" x 16ft.  $11
+Yeah, that's more than enough to play with and a price I can get behind.
+
+2. Displays.
+It's edu-tainment, right?  
+I can get a little OLED display and pizero on the ebays for a couple bucks.
+I happen to have a 7" TFT and a raspi fo zero dollas.  So, imma use that.
+
+3. Smarts
+
+...I bet I could get this into a compact and make a spy mirror with a tiny keyboard.
+
+
