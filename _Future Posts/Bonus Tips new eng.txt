@@ -1,16 +1,37 @@
 ### 5. Bonus
-This is just a few tips to give yourself an edge.  (Ok, these are mostly for EEMECE)
+This is just a few tips to give yourself an edge.  (Ok, these are mostly for EE/ECE)
 1. Learn to Solder.  
 It's a valuable skill with a low cost to get started.  
 An entry level soldering iron kit is $10.  A soldering project kit is also $10 or less.   
 
-2. Arduino or similar.  
-There are lots of flavors.  I reccommend getting started with an UNO variant.  If you don't have any hardware, the starter kits are under $40 and come with the board.  The IDE is free.  Run through a few tutorials.  
+2. Arduino or similar introductory microcontrollers.  
+There are lots of flavors.  I reccommend getting started with an UNO variant.  
+If you don't have any hardware, the starter kits are under $40 and come with the board.  
+The IDE is free.  Run through a few tutorials.  
+If you want a more "real world" application, try programming in VSCode instead of the Arduino IDE, 
+or try a different development board - try an STMicro Nucleo, TI Launchpad, Microchip Xplained, Cypress PSoC or other.
 
 3. 3D Design  
-Again, many flavors.  Fusion360, Tinkercad, Sketchup, Solidworks - it's great to be able to design enclosures.  Bonus points if you print or send out to have it printed.
+Again, many flavors.  Fusion360, Tinkercad, Sketchup, Solidworks - it's great to be able to design enclosures.  
+Bonus points if you print it, or send out to have it printed.
 
 4. PCB Layout  
-Mostly for the EECEs.  It's daunting, but YouTube has a lot of tutorials.  Pick a schematicPCB program like KiCad, Eagle, or other.  You can (and should) have have them fabricated for not too much if you're willing to wait.
+Mostly for the EECEs.  It's daunting, but YouTube has a lot of tutorials.  Pick a schematic PCB program like KiCad, PCB123 or other.  
+You can (and should) have have them fabricated.  It's surprisingly inexpensive if you're willing to wait.
+
+5. As you do your labs/academic coursework...
+Set yourself a challenge and figure out why you're learning this.
+What skills am I developing here?
+What real-world applications does this have?
+How could I use this in a product that could be sold?
+
+Start with the quintessential "hello world" or "blink the led" projects.  Why are these so important?
+
+Then challenge yourself to make it more productive, and solve a problem.
+Knowing isn't useful unless you can use it.
+
+Stuck?  Ask your classmates.  Ask your TA.  Ask your instructor.  Ask a mentor.  Ask the internet!
+Engineering just does not happen in a vaccuum.  Bounce ideas off each other.
+
 
 Now put these on your resume for a definite edge.
